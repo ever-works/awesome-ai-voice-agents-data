@@ -1,0 +1,13 @@
+name: "AssemblyAI"
+description: "AssemblyAI offers speech-to-text APIs with high accuracy, speaker diarization, and audio intelligence features. It targets developers building transcription and voice analytics. Free tier and pay-as-you-go."
+source_url: "https://assemblyai.com/"
+category: "Speech Providers (STT/TTS)"
+tags:
+  - "api"
+  - "freemium"
+  - "stt"
+  - "audio-intelligence"
+  - "speaker-diarization"
+icon_url: "https://icons.duckduckgo.com/ip3/assemblyai.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://assemblyai.com/>\n"
+updated_at: "2026-11-21 00:13"

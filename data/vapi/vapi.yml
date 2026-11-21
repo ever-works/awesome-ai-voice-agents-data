@@ -1,0 +1,13 @@
+name: "Vapi"
+description: "Vapi is a platform for building, deploying, and scaling voice AI agents with low-latency orchestration of STT, LLM, and TTS. It targets developers and businesses wanting to add voice interfaces to applications. Pricing is usage-based with a free tier."
+source_url: "https://vapi.ai/"
+category: "Voice Agent Platforms"
+tags:
+  - "api"
+  - "ai-powered"
+  - "freemium"
+  - "voice-agents"
+  - "low-latency"
+icon_url: "https://icons.duckduckgo.com/ip3/vapi.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://vapi.ai/>\n"
+updated_at: "2026-11-21 00:13"

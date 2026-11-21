@@ -1,0 +1,12 @@
+- id: voice-agent-platforms
+  name: "Voice Agent Platforms"
+- id: open-source-frameworks
+  name: "Open-Source Frameworks"
+- id: telephony-and-sip
+  name: "Telephony & SIP"
+- id: speech-providers-stt-tts
+  name: "Speech Providers (STT/TTS)"
+- id: testing-and-monitoring
+  name: "Testing & Monitoring"
+- id: vertical-voice-agents
+  name: "Vertical Voice Agents"

@@ -1,0 +1,13 @@
+name: "Bland AI"
+description: "Bland AI offers an API for building AI phone agents that can handle inbound and outbound calls with sub-second latency. It is aimed at developers automating phone-based workflows. Pricing is per-minute with a free trial."
+source_url: "https://bland.ai/"
+category: "Voice Agent Platforms"
+tags:
+  - "api"
+  - "ai-powered"
+  - "paid"
+  - "phone-agents"
+  - "low-latency"
+icon_url: "https://icons.duckduckgo.com/ip3/bland.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://bland.ai/>\n"
+updated_at: "2026-11-21 00:13"

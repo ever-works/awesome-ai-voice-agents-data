@@ -1,0 +1,110 @@
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: freemium
+  name: "Freemium"
+- id: voice-agents
+  name: "Voice Agents"
+- id: low-latency
+  name: "Low Latency"
+- id: multilingual
+  name: "Multilingual"
+- id: paid
+  name: "Paid"
+- id: phone-agents
+  name: "Phone Agents"
+- id: no-code
+  name: "No-Code"
+- id: sales-automation
+  name: "Sales Automation"
+- id: outbound-calling
+  name: "Outbound Calling"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: real-time
+  name: "Real-Time"
+- id: webrtc
+  name: "WebRTC"
+- id: multimodal
+  name: "Multimodal"
+- id: python
+  name: "Python"
+- id: voice-cloning
+  name: "Voice Cloning"
+- id: tts
+  name: "TTS"
+- id: enterprise
+  name: "Enterprise"
+- id: contact-center
+  name: "Contact Center"
+- id: customer-service
+  name: "Customer Service"
+- id: telephony
+  name: "Telephony"
+- id: stt
+  name: "STT"
+- id: testing
+  name: "Testing"
+- id: monitoring
+  name: "Monitoring"
+- id: simulation
+  name: "Simulation"
+- id: chat-agents
+  name: "Chat Agents"
+- id: collaboration
+  name: "Collaboration"
+- id: low-code
+  name: "Low-Code"
+- id: analytics
+  name: "Analytics"
+- id: industry-templates
+  name: "Industry Templates"
+- id: visual-builder
+  name: "Visual Builder"
+- id: agpl
+  name: "AGPL"
+- id: nlu
+  name: "NLU"
+- id: dialogue-management
+  name: "Dialogue Management"
+- id: sip
+  name: "SIP"
+- id: pstn
+  name: "PSTN"
+- id: programmable-voice
+  name: "Programmable Voice"
+- id: global
+  name: "Global"
+- id: per-second-billing
+  name: "Per-Second Billing"
+- id: freeswitch
+  name: "FreeSWITCH"
+- id: private-network
+  name: "Private Network"
+- id: whisper
+  name: "Whisper"
+- id: audio-intelligence
+  name: "Audio Intelligence"
+- id: speaker-diarization
+  name: "Speaker Diarization"
+- id: streaming
+  name: "Streaming"
+- id: google-cloud
+  name: "Google Cloud"
+- id: speaker-identification
+  name: "Speaker Identification"
+- id: custom-vocabulary
+  name: "Custom Vocabulary"
+- id: aws
+  name: "AWS"
+- id: load-testing
+  name: "Load Testing"
+- id: voice
+  name: "Voice"
+- id: ccaas-integration
+  name: "CCaaS Integration"

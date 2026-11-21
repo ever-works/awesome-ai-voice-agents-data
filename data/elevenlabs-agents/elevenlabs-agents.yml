@@ -1,0 +1,13 @@
+name: "ElevenLabs Agents"
+description: "ElevenLabs Agents is a platform for creating and deploying conversational voice agents powered by ElevenLabs' proprietary TTS and voice cloning technology. It targets developers and enterprises wanting high-quality voice interactions. Pricing is usage-based with a free tier."
+source_url: "https://elevenlabs.io/agents"
+category: "Voice Agent Platforms"
+tags:
+  - "api"
+  - "ai-powered"
+  - "freemium"
+  - "voice-cloning"
+  - "tts"
+icon_url: "https://icons.duckduckgo.com/ip3/elevenlabs.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://elevenlabs.io/agents>\n"
+updated_at: "2026-11-21 00:13"

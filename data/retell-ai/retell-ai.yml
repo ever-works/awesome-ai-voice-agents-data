@@ -1,0 +1,13 @@
+name: "Retell AI"
+description: "Retell AI provides a platform for creating human-like voice agents with features like interruption handling, endpointing, and multi-language support. It serves developers and enterprises building voice applications. Offers a free tier and pay-as-you-go pricing."
+source_url: "https://retellai.com/"
+category: "Voice Agent Platforms"
+tags:
+  - "api"
+  - "ai-powered"
+  - "freemium"
+  - "voice-agents"
+  - "multilingual"
+icon_url: "https://icons.duckduckgo.com/ip3/retellai.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://retellai.com/>\n"
+updated_at: "2026-11-21 00:13"
