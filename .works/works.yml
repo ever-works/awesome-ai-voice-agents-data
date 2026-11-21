@@ -13,3 +13,19 @@ providers:
   contentExtractor: local-content-extractor
 website_repo: "ever-works/awesome-ai-voice-agents-website"
 company_website: "https://ai-voice-agents.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0
